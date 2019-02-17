@@ -22,8 +22,6 @@ cap = cv2.VideoCapture(0)
 
 classifier = cv2.CascadeClassifier("../../dataset/haarcascade_frontalface_default.xml")
 
-f_list = []
-
 while True:
 
     ret, frame = cap.read()
