@@ -31,6 +31,7 @@
  * Complete quiz based on KNN at online.codingblocks.com course assigned to you.
 
 ## Bonus task
- * Try K-Means observation above with diffent subsets of features and list down accuracy. (Comparing with given data)
- * Note down observations (which fields are more important and should have been given more weight)
+ * Try K-Means observation above with diffrent subsets of features and list down accuracy deviations.
+ * Can we somehow make K-Means to depned of feature weights.
+ * Note down observations (which fields are more important and should have been given more weight).
 
